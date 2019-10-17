@@ -27,3 +27,6 @@ class Circle {
         this.radius = circumference / (this.pi * 2)
     }
 
+}
+
+
